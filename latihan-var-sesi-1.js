@@ -5,14 +5,9 @@ let completeMessage
 
 // Your Code Here
 
-// myName = " Ananda Ning Saputra, "
-// whyChooseHacktiv8 = whyChooseHacktiv8 + "saya ingin mengupgrade skill di ReactJS"
-// completeMessage = message + myName + whyChooseHacktiv8
-
-// Second Code
-myName = " Muvid "
-completeMessage = message+myName+whyChooseHacktiv8+"Saya suka coding"
-
+myName = " Dika Dwi Rachmansyah, "
+whyChooseHacktiv8 = whyChooseHacktiv8 + "saya ingin mengupgrade skill di ReactJS"
+completeMessage = message + myName + whyChooseHacktiv8
 
 console.log(completeMessage)
 // Perkenalkan saya Ananda Ning Saputra, Karena saya ingin mengupgrade skill di ReactJS 
